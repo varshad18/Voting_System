@@ -8,3 +8,9 @@
 
  
  ### To run : python homePage.py
+ 
+ ### Screenshots
+ ![login](img/login.png)
+ ![admin](img/admin.png)
+ ![votes](img/votes.png)
+
